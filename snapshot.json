@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-01 16:49",
+  "generated_at": "2026-10-01 19:31",
   "origin_date": "2026-09-30",
   "forecast_track_id": "operational-realtime-inputs-v1",
-  "forecast_count": 15
+  "forecast_count": 36,
+  "models": [
+    "lstm_1b",
+    "persistence",
+    "ridge_ar",
+    "seasonal",
+    "xgb_1b",
+    "xgb_1b_nwp"
+  ],
+  "app_recipe": "2026-10-01-v5-eod-live-6model-lead14"
 }
